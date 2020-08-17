@@ -1,7 +1,6 @@
 #grad1 {
-    height: 200px;
-    background-color: red; /* For browsers that do not support gradients */
-    background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+  background-size: cover;
+    background-image: linear-gradient(rgb(47, 38, 51), rgb(74, 56, 77)); /* Standard syntax (must be last) */
   }
 
 
