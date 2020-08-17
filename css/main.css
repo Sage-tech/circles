@@ -1,3 +1,10 @@
+*{
+
+  box-sizing: border-box;
+}
+
+
+
 #grad1 {
   background-size: cover;
     background-image: linear-gradient(rgb(47, 38, 51), rgb(74, 56, 77)); /* Standard syntax (must be last) */
